@@ -6,7 +6,7 @@
 ![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-8b5e34?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Kyrgyzstan-d4a24c?style=flat-square)
 
-[![Telegram](https://img.shields.io/badge/Telegram-its__smoothie-a0702f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/its_smoothie)
+[![Telegram](https://img.shields.io/badge/Telegram-its__smoothie-a0702f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sakdianaDev)
 [![Email](https://img.shields.io/badge/Email-bekmurzaevasakdiana2%40gmail.com-6b4423?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
 
 </div>
