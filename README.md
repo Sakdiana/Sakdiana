@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:3b82f6&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%A2%20Mentor&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%A2%20Mentor&descAlignY=65)
 
-![Role](https://img.shields.io/badge/Role-Frontend%20Developer-6366f1?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-3b82f6?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Kyrgyzstan-0ea5e9?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend%20Developer-b8862b?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-8b5e34?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Kyrgyzstan-d4a24c?style=flat-square)
 
-[![Telegram](https://img.shields.io/badge/Telegram-its__smoothie-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/its_smoothie)
-[![Email](https://img.shields.io/badge/Email-Write%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-its__smoothie-a0702f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/its_smoothie)
+[![Email](https://img.shields.io/badge/Email-bekmurzaevasakdiana2%40gmail.com-6b4423?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
 
 </div>
 
@@ -50,3 +50,4 @@ I'm a **Frontend Developer from Kyrgyzstan** with 2 years of experience. I build
 ---
 
 > Build useful things. Keep the interface simple. Learn by building real products.
+> 
