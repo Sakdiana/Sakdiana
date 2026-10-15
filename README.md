@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=16&descAlignY=60&animation=fadeIn" alt="Animated Header" width="100%" />
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=true&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C99A48&center=true&vCenter=true&width=650&lines=Sakdiana+Bekmurzaeva+%7C+Frontend+Developer;Building+React+%26+Next.js+applications;Improving+frontend+architecture;Creating+useful+products" alt="Typing Animation" />
 
 <br />
 <br />
@@ -30,7 +26,7 @@
 
 ### Build useful things. Keep interfaces simple. Learn by building real products.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer" alt="Header Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=160&section=footer" alt="Header Wave" width="100%" />
 
 </div>
 
