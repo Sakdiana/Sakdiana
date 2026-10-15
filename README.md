@@ -24,6 +24,12 @@
 
 🇰🇬 Kyrgyzstan
 
+<br />
+
+### Build useful things. Keep interfaces simple. Learn by building real products.
+
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer)
+
 </div>
 
 ---
@@ -187,13 +193,3 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 - Writing maintainable and reusable frontend code
 - Working with APIs, state management, and asynchronous operations
 - Developing practical projects and mentoring aspiring developers
-
----
-
-<div align="center">
-
-### Build useful things. Keep interfaces simple. Learn by building real products.
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer)
-
-</div>
