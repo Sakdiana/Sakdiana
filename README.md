@@ -1,43 +1,45 @@
-# Sakdiana Bekmurzaeva
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=210&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=17&descAlignY=60)
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=220&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%26%20React%20Mentor&descAlignY=60&descSize=17)
+![Role](https://img.shields.io/badge/Role-Frontend%20Developer-b8862b?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-8b5e34?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Kyrgyzstan-d4a24c?style=flat-square)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-8b6844?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakdianaDev)
-[![Email](https://img.shields.io/badge/Email-Contact-8b6844?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-21180f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakdiana)
+[![Telegram](https://img.shields.io/badge/Telegram-sakdianaDev-a0702f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sakdianaDev)
+[![Email](https://img.shields.io/badge/Email-bekmurzaevasakdiana2%40gmail.com-6b4423?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakdiana)
 
 **Frontend Developer · Junior+ · 2.5 years of experience**
-
-Kyrgyzstan · Building web applications and teaching frontend development
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a Frontend Developer specializing in **React, Next.js, and TypeScript**, with commercial experience building web applications and ERP systems.
+I'm a **Frontend Developer** specializing in React, Next.js, and TypeScript. I build responsive web applications, integrate REST APIs, and develop interfaces for real-world business processes.
 
-I contributed to the development of an ERP platform for retail businesses used by real customers. My work includes cashier operations, inventory management, pricing, reporting, and responsive interfaces built with Feature-Sliced Design (FSD).
+I have commercial experience developing a retail ERP system used by real customers. I work with modular frontend architecture, state management, data fetching, and complex business interfaces.
 
-Alongside development, I teach JavaScript and React, helping students understand frontend fundamentals and build practical projects.
+Alongside development, I teach JavaScript and React, helping students understand programming fundamentals and build practical projects.
 
-- 💻 Commercial experience with React and Next.js
-- 🏪 Development of real-world ERP modules for retail
-- 🧩 Feature-Sliced Design and modular frontend architecture
-- 👩‍🏫 Teaching JavaScript, React, Redux, and Tailwind CSS
-- 📱 Responsive interfaces and mobile-friendly interactions
+- 💻 Commercial development with React and Next.js
+- 🏪 Retail ERP systems and business applications
+- 🧩 Feature-Sliced Design (FSD) and modular architecture
+- 🔌 REST API integration and authentication
+- 👩‍🏫 JavaScript and React mentoring
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -52,13 +54,16 @@ Alongside development, I teach JavaScript and React, helping students understand
 ### Styling & Architecture
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FSD](https://img.shields.io/badge/Feature--Sliced_Design-8B6844?style=flat-square)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-6B8E23?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-8b5e34?style=flat-square)
+![FSD](https://img.shields.io/badge/Feature--Sliced_Design-b8862b?style=flat-square)
 
 ### APIs & Tools
 
 ![REST API](https://img.shields.io/badge/REST_API-795548?style=flat-square)
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-8b5e34?style=flat-square)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -66,7 +71,7 @@ Alongside development, I teach JavaScript and React, helping students understand
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Frontend Developer — PROlab Agency
 
@@ -74,57 +79,80 @@ Alongside development, I teach JavaScript and React, helping students understand
 
 #### SService — Retail ERP System
 
-A retail management platform designed as an alternative to 1C:Retail.
+A retail management platform designed as an alternative to 1C:Retail and used by real customers.
 
 - Developed a tablet-oriented interface for retail employees in collaboration with another frontend developer.
-- Implemented cashier operations, shifts, receipts, X/Z reports, inventory, returns, write-offs, and stock reservations.
-- Developed pricing, price tags, sales and profit reports, branch management, roles, and activity logs.
+- Implemented cashier functionality, including shifts, receipts, and X/Z reports.
+- Developed inventory management features: stocktaking, returns, write-offs, and reservations.
+- Implemented pricing, price tags, sales and profit reports, branch management, roles, and activity logs.
 - Investigated and fixed a double-click issue caused by form re-rendering during automatic saving on blur.
 
-**Stack:** React, TanStack Query, FSD
+**Technologies:** React · TanStack Query · FSD
 
 #### AravanGo — Classifieds Platform
 
-- Implemented responsive layouts and authentication flows, including registration, login, password recovery, and Google OAuth.
-- Developed a detailed advertisement page and an image gallery with mobile-friendly swipe interactions.
+- Developed responsive interfaces for a classifieds platform.
+- Implemented registration, login, password recovery, and Google OAuth.
+- Built the advertisement details page and an image gallery with mobile-friendly swipe interactions.
+- Ensured horizontal image navigation works without blocking vertical page scrolling.
 
-**Stack:** Next.js, TypeScript, Redux, Axios
+**Technologies:** Next.js · TypeScript · Redux · Axios
 
 #### Product Catalog
 
 - Implemented product sorting by name, date, and weight.
-- Added client-side PDF generation for individual products.
+- Added client-side PDF document generation for individual products.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, Zustand, Axios, jsPDF
+**Technologies:** Next.js · TypeScript · Tailwind CSS · Zustand · Axios · jsPDF
 
 #### SMM Copilot — Content Planning Platform
 
-- Developed the project listing interface and project creation flow.
+- Developed the project listing interface.
+- Implemented the creation flow for new projects.
 
-**Stack:** React, TypeScript, Redux, Axios
+**Technologies:** React · TypeScript · Redux · Axios
 
 ### Frontend Mentor — PROlab Academy
 
 - Taught more than 30 groups of children and adults.
-- Covered HTML, CSS, JavaScript, React, Tailwind CSS, and Redux.
-- Focused on JavaScript fundamentals, practical exercises, and frontend development.
+- Taught HTML, CSS, JavaScript, React, Tailwind CSS, and Redux.
+- Explained JavaScript from fundamentals to more advanced topics.
+- Helped students develop practical frontend skills through exercises and projects.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Technologies | Highlights |
-|---|---|---|
-| **SService ERP** | React, TanStack Query, FSD | Retail operations, inventory, pricing, reports |
-| **AravanGo** | Next.js, TypeScript, Redux | Authentication, classifieds, responsive gallery |
-| **Product Catalog** | Next.js, Zustand, jsPDF | Sorting and PDF generation |
-| **SMM Copilot** | React, TypeScript, Redux | Project management and content planning |
-
-*Explore my repositories for available source code and additional projects.*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>SService ERP</h3>
+      <p>Retail management system with cashier operations, inventory, pricing, reports, and access control.</p>
+      <p><strong>React · TanStack Query · FSD</strong></p>
+    </td>
+    <td width="50%">
+      <h3>AravanGo</h3>
+      <p>Classifieds platform with authentication, advertisement details, and an interactive mobile image gallery.</p>
+      <p><strong>Next.js · TypeScript · Redux</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Product Catalog</h3>
+      <p>Product browsing, sorting, and PDF document generation.</p>
+      <p><strong>Next.js · Zustand · jsPDF</strong></p>
+    </td>
+    <td width="50%">
+      <h3>SMM Copilot</h3>
+      <p>Web interface for managing projects on a content-planning platform.</p>
+      <p><strong>React · TypeScript · Redux</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Education
+## 🎓 Education
 
 **Osh State University (OshSU)**
 
@@ -136,11 +164,20 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 ---
 
-## Languages
+## 🌐 Languages
 
-- **Kyrgyz:** Native / proficiency level not specified
+- **Kyrgyz:** Level not specified
 - **Russian:** B1
 - **English:** B1
+
+---
+
+## 📈 Current Focus
+
+- Improving React and Next.js architecture skills
+- Writing maintainable and reusable frontend code
+- Working with APIs, state management, and asynchronous operations
+- Developing practical projects and mentoring aspiring developers
 
 ---
 
@@ -148,6 +185,6 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 ### Build useful things. Keep interfaces simple. Learn by building real products.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=110&section=footer)
 
 </div>
