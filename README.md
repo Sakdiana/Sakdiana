@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=210&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=17&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving%26color=0:3b2a1a,50:8b5e34,100:d4a24c%26height=210%26section=header%26text=Sakdiana%20Bekmurzaeva%26fontSize=40%26fontColor=ffffff%26fontAlignY=38%26desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%26descSize=17%26descAlignY=60)
 
 <div align="center">
 
@@ -123,32 +123,29 @@ A retail management platform designed as an alternative to 1C:Retail and used by
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>SService ERP</h3>
-      <p>Retail management system with cashier operations, inventory, pricing, reports, and access control.</p>
-      <p><strong>React · TanStack Query · FSD</strong></p>
-    </td>
-    <td width="50%">
-      <h3>AravanGo</h3>
-      <p>Classifieds platform with authentication, advertisement details, and an interactive mobile image gallery.</p>
-      <p><strong>Next.js · TypeScript · Redux</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product Catalog</h3>
-      <p>Product browsing, sorting, and PDF document generation.</p>
-      <p><strong>Next.js · Zustand · jsPDF</strong></p>
-    </td>
-    <td width="50%">
-      <h3>SMM Copilot</h3>
-      <p>Web interface for managing projects on a content-planning platform.</p>
-      <p><strong>React · TypeScript · Redux</strong></p>
-    </td>
-  </tr>
-</table>
+### SService ERP
+
+Retail management system with cashier operations, inventory, pricing, reports, and access control.
+
+**Stack:** React · TanStack Query · FSD
+
+### AravanGo
+
+Classifieds platform with authentication, advertisement details, and an interactive mobile image gallery.
+
+**Stack:** Next.js · TypeScript · Redux · Axios
+
+### Product Catalog
+
+Product browsing, sorting, and PDF document generation.
+
+**Stack:** Next.js · TypeScript · Zustand · jsPDF
+
+### SMM Copilot
+
+Web interface for managing projects on a content-planning platform.
+
+**Stack:** React · TypeScript · Redux · Axios
 
 ---
 
@@ -183,8 +180,8 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 <div align="center">
 
-### Build useful things. Keep interfaces simple. Learn by building real products.
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=110&section=footer)
+**Build useful things. Keep interfaces simple. Learn by building real products.**
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=110&section=footer)
