@@ -1,4 +1,6 @@
-![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=16&descAlignY=60&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=16&descAlignY=60&animation=fadeIn" alt="Animated Header" width="100%" />
+</p>
 
 <div align="center">
 
@@ -28,7 +30,7 @@
 
 ### Build useful things. Keep interfaces simple. Learn by building real products.
 
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer" alt="Header Wave" width="100%" />
 
 </div>
 
