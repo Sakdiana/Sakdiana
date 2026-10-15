@@ -167,7 +167,7 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 ## 🌐 Languages
 
-- **Kyrgyz:** Level not specified
+- **Kyrgyz:** Native / Fluent
 - **Russian:** B1
 - **English:** B1
 
@@ -175,7 +175,7 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 ## 📈 Current Focus
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=false&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=false&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products" alt="Typing Animation" />
 
 - Improving React and Next.js architecture skills
 - Writing maintainable and reusable frontend code
