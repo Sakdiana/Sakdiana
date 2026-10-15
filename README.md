@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving%26color=0:3b2a1a,50:8b5e34,100:d4a24c%26height=210%26section=header%26text=Sakdiana%20Bekmurzaeva%26fontSize=40%26fontColor=ffffff%26fontAlignY=38%26desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%26descSize=17%26descAlignY=60)
+# Sakdiana Bekmurzaeva
 
 <div align="center">
+
+### Frontend Developer · React · Next.js · TypeScript
 
 ![Role](https://img.shields.io/badge/Role-Frontend%20Developer-b8862b?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-8b5e34?style=flat-square)
@@ -10,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-bekmurzaevasakdiana2%40gmail.com-6b4423?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakdiana)
 
-**Frontend Developer · Junior+ · 2.5 years of experience**
+**Junior+ · 2.5 years of experience**
 
 </div>
 
@@ -20,7 +22,7 @@
 
 I'm a **Frontend Developer** specializing in React, Next.js, and TypeScript. I build responsive web applications, integrate REST APIs, and develop interfaces for real-world business processes.
 
-I have commercial experience developing a retail ERP system used by real customers. I work with modular frontend architecture, state management, data fetching, and complex business interfaces.
+I have commercial experience developing a retail ERP system used by real customers. My work includes business logic interfaces, state management, data fetching, and modular frontend architecture.
 
 Alongside development, I teach JavaScript and React, helping students understand programming fundamentals and build practical projects.
 
@@ -183,5 +185,3 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 **Build useful things. Keep interfaces simple. Learn by building real products.**
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=110&section=footer)
