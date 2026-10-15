@@ -1,18 +1,20 @@
-# Sakdiana Bekmurzaeva
+![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:21180f,50:704b2c,100:c99a48&height=200&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descSize=16&descAlignY=60&animation=fadeIn)
 
 <div align="center">
 
-### Frontend Developer · React · Next.js · TypeScript
+<a href="https://t.me/sakdianaDev">
+  <img src="https://img.shields.io/badge/Telegram-sakdianaDev-a0702f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:bekmurzaevasakdiana2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-6b4423?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Sakdiana">
+  <img src="https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-![Role](https://img.shields.io/badge/Role-Frontend%20Developer-b8862b?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-React%20%2B%20Next.js-8b5e34?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Kyrgyzstan-d4a24c?style=flat-square)
+**Frontend Developer · Junior+ · 2.5 years of experience**
 
-[![Telegram](https://img.shields.io/badge/Telegram-sakdianaDev-a0702f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sakdianaDev)
-[![Email](https://img.shields.io/badge/Email-bekmurzaevasakdiana2%40gmail.com-6b4423?style=flat-square&logo=gmail&logoColor=white)](mailto:bekmurzaevasakdiana2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakdiana)
-
-**Junior+ · 2.5 years of experience**
+🇰🇬 Kyrgyzstan
 
 </div>
 
@@ -173,6 +175,8 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 ## 📈 Current Focus
 
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=false&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products)
+
 - Improving React and Next.js architecture skills
 - Writing maintainable and reusable frontend code
 - Working with APIs, state management, and asynchronous operations
@@ -182,6 +186,8 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 
 <div align="center">
 
-**Build useful things. Keep interfaces simple. Learn by building real products.**
+### Build useful things. Keep interfaces simple. Learn by building real products.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=100&section=footer)
 
 </div>
