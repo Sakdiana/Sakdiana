@@ -2,6 +2,11 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=true&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products" alt="Typing Animation" />
+
+<br />
+<br />
+
 <a href="https://t.me/sakdianaDev">
   <img src="https://img.shields.io/badge/Telegram-sakdianaDev-a0702f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
@@ -11,6 +16,9 @@
 <a href="https://github.com/Sakdiana">
   <img src="https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<br />
+<br />
 
 **Frontend Developer · Junior+ · 2.5 years of experience**
 
@@ -174,8 +182,6 @@ Institute of Mathematics, Physics, Engineering and Information Technology
 ---
 
 ## 📈 Current Focus
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A48&center=false&vCenter=true&width=600&lines=Building+React+%26+Next.js+applications;Improving+frontend+architecture;Learning+and+teaching+JavaScript;Creating+useful+products" alt="Typing Animation" />
 
 - Improving React and Next.js architecture skills
 - Writing maintainable and reusable frontend code
