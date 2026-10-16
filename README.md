@@ -1,193 +1,79 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=220&section=header&text=Sakdiana%20Bekmurzaeva&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Junior%2B&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=900&color=D4A24C&center=true&vCenter=true&width=620&height=40&repeat=true&lines=%3E+React+%26+Next.js+%2B+TypeScript;%3E+Retail+ERP+used+by+real+customers;%3E+Feature-Sliced+Design+%26+clean+architecture;%3E+Teaching+JavaScript+to+30%2B+groups;%3E+Build+useful+things.+Keep+it+simple." alt="Typing animation" /> <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C99A48&center=true&vCenter=true&width=650&lines=Sakdiana+Bekmurzaeva+%7C+Frontend+Developer;Building+React+%26+Next.js+applications;Improving+frontend+architecture;Creating+useful+products" alt="Typing Animation" />
+<a href="https://t.me/sakdianaDev"><img src="https://img.shields.io/badge/Telegram-sakdianaDev-D4A24C?style=for-the-badge&logo=telegram&logoColor=1a1410&labelColor=3b2a1a" alt="Telegram" /></a> <a href="mailto:bekmurzaevasakdiana2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D4A24C?style=for-the-badge&logo=gmail&logoColor=1a1410&labelColor=3b2a1a" alt="Email" /></a> <a href="https://github.com/Sakdiana"><img src="https://img.shields.io/badge/GitHub-Sakdiana-D4A24C?style=for-the-badge&logo=github&logoColor=1a1410&labelColor=3b2a1a" alt="GitHub" /></a>
 
+<br /><br />
+
+🇰🇬 Kyrgyzstan  ·  ⏱ 2.5 years of experience  ·  🎓 OshSU, 2024–2028
+
+</div> <br />
+👩‍💻 About Me
+
+I'm a Frontend Developer specializing in React, Next.js, and TypeScript. I build responsive web applications, integrate REST APIs, and develop interfaces for real-world business processes.
+
+I have commercial experience developing a retail ERP system used by real customers: business logic interfaces, state management, data fetching, and modular frontend architecture. Alongside development, I teach JavaScript and React, helping students understand programming fundamentals and build practical projects.
+
+	
+💻 Commercial development	React and Next.js
+🏪 Domain	Retail ERP systems and business applications
+🧩 Architecture	Feature-Sliced Design (FSD), modular code
+🔌 Integrations	REST API, authentication, Google OAuth
+👩‍🏫 Mentoring	JavaScript and React
 <br />
-<br />
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,vite,git,github,figma&theme=dark" alt="Tech stack icons" />
 
-<a href="https://t.me/sakdianaDev">
-  <img src="https://img.shields.io/badge/Telegram-sakdianaDev-a0702f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:bekmurzaevasakdiana2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6b4423?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Sakdiana">
-  <img src="https://img.shields.io/badge/GitHub-Sakdiana-21180f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<br /><br />
 
-<br />
-<br />
+Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение
 
-**Frontend Developer · Junior+ · 2.5 years of experience**
+</div> <br />
+💼 Experience
+Frontend Developer — PROlab Agency
 
-🇰🇬 Kyrgyzstan
+<sub>February 2024 – Present</sub>
 
-<br />
-
-### Build useful things. Keep interfaces simple. Learn by building real products.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=160&section=footer" alt="Header Wave" width="100%" />
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **Frontend Developer** specializing in React, Next.js, and TypeScript. I build responsive web applications, integrate REST APIs, and develop interfaces for real-world business processes.
-
-I have commercial experience developing a retail ERP system used by real customers. My work includes business logic interfaces, state management, data fetching, and modular frontend architecture.
-
-Alongside development, I teach JavaScript and React, helping students understand programming fundamentals and build practical projects.
-
-- 💻 Commercial development with React and Next.js
-- 🏪 Retail ERP systems and business applications
-- 🧩 Feature-Sliced Design (FSD) and modular architecture
-- 🔌 REST API integration and authentication
-- 👩‍🏫 JavaScript and React mentoring
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### State Management & Data Fetching
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Context API](https://img.shields.io/badge/Context_API-149ECA?style=flat-square&logo=react&logoColor=white)
-
-### Styling & Architecture
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-8b5e34?style=flat-square)
-![FSD](https://img.shields.io/badge/Feature--Sliced_Design-b8862b?style=flat-square)
-
-### APIs & Tools
-
-![REST API](https://img.shields.io/badge/REST_API-795548?style=flat-square)
-![Axios](https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch_API-8b5e34?style=flat-square)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 💼 Experience
-
-### Frontend Developer — PROlab Agency
-
-**February 2024 – Present**
-
-#### SService — Retail ERP System
+<details open> <summary><b>🏪 SService — Retail ERP System</b> &nbsp;<code>React</code> <code>TanStack Query</code> <code>FSD</code></summary> <br />
 
 A retail management platform designed as an alternative to 1C:Retail and used by real customers.
 
-- Developed a tablet-oriented interface for retail employees in collaboration with another frontend developer.
-- Implemented cashier functionality, including shifts, receipts, and X/Z reports.
-- Developed inventory management features: stocktaking, returns, write-offs, and reservations.
-- Implemented pricing, price tags, sales and profit reports, branch management, roles, and activity logs.
-- Investigated and fixed a double-click issue caused by form re-rendering during automatic saving on blur.
-
-**Technologies:** React · TanStack Query · FSD
-
-#### AravanGo — Classifieds Platform
-
-- Developed responsive interfaces for a classifieds platform.
-- Implemented registration, login, password recovery, and Google OAuth.
-- Built the advertisement details page and an image gallery with mobile-friendly swipe interactions.
-- Ensured horizontal image navigation works without blocking vertical page scrolling.
-
-**Technologies:** Next.js · TypeScript · Redux · Axios
-
-#### Product Catalog
-
-- Implemented product sorting by name, date, and weight.
-- Added client-side PDF document generation for individual products.
-
-**Technologies:** Next.js · TypeScript · Tailwind CSS · Zustand · Axios · jsPDF
-
-#### SMM Copilot — Content Planning Platform
-
-- Developed the project listing interface.
-- Implemented the creation flow for new projects.
-
-**Technologies:** React · TypeScript · Redux · Axios
-
-### Frontend Mentor — PROlab Academy
-
-- Taught more than 30 groups of children and adults.
-- Taught HTML, CSS, JavaScript, React, Tailwind CSS, and Redux.
-- Explained JavaScript from fundamentals to more advanced topics.
-- Helped students develop practical frontend skills through exercises and projects.
-
----
-
-## 🚀 Featured Projects
-
-### SService ERP
-
-Retail management system with cashier operations, inventory, pricing, reports, and access control.
-
-**Stack:** React · TanStack Query · FSD
-
-### AravanGo
-
-Classifieds platform with authentication, advertisement details, and an interactive mobile image gallery.
-
-**Stack:** Next.js · TypeScript · Redux · Axios
-
-### Product Catalog
-
-Product browsing, sorting, and PDF document generation.
-
-**Stack:** Next.js · TypeScript · Zustand · jsPDF
-
-### SMM Copilot
-
-Web interface for managing projects on a content-planning platform.
-
-**Stack:** React · TypeScript · Redux · Axios
-
----
-
-## 🎓 Education
-
-**Osh State University (OshSU)**
-
+Developed a tablet-oriented interface for retail employees in collaboration with another frontend developer.
+Implemented cashier functionality, including shifts, receipts, and X/Z reports.
+Developed inventory management features: stocktaking, returns, write-offs, and reservations.
+Implemented pricing, price tags, sales and profit reports, branch management, roles, and activity logs.
+Investigated and fixed a double-click issue caused by form re-rendering during automatic saving on blur.
+</details> <details> <summary><b>🛒 AravanGo — Classifieds Platform</b> &nbsp;<code>Next.js</code> <code>TypeScript</code> <code>Redux</code> <code>Axios</code></summary> <br />
+Developed responsive interfaces for a classifieds platform.
+Implemented registration, login, password recovery, and Google OAuth.
+Built the advertisement details page and an image gallery with mobile-friendly swipe interactions.
+Ensured horizontal image navigation works without blocking vertical page scrolling.
+</details> <details> <summary><b>📦 Product Catalog</b> &nbsp;<code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Zustand</code> <code>Axios</code> <code>jsPDF</code></summary> <br />
+Implemented product sorting by name, date, and weight.
+Added client-side PDF document generation for individual products.
+</details> <details> <summary><b>🗓️ SMM Copilot — Content Planning Platform</b> &nbsp;<code>React</code> <code>TypeScript</code> <code>Redux</code> <code>Axios</code></summary> <br />
+Developed the project listing interface.
+Implemented the creation flow for new projects.
+</details>
+Frontend Mentor — PROlab Academy
+Taught 30+ groups of children and adults.
+Covered HTML, CSS, JavaScript, React, Tailwind CSS, and Redux.
+Explained JavaScript from fundamentals to more advanced topics.
+Helped students develop practical frontend skills through exercises and projects.
+<br />
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🏪 SService ERP</h3> Retail management system with cashier operations, inventory, pricing, reports, and access control. <br /><br /> <code>React</code> <code>TanStack Query</code> <code>FSD</code> </td> <td width="50%" valign="top"> <h3>🛒 AravanGo</h3> Classifieds platform with authentication, advertisement details, and an interactive mobile image gallery. <br /><br /> <code>Next.js</code> <code>TypeScript</code> <code>Redux</code> <code>Axios</code> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📦 Product Catalog</h3> Product browsing, sorting, and PDF document generation. <br /><br /> <code>Next.js</code> <code>TypeScript</code> <code>Zustand</code> <code>jsPDF</code> </td> <td width="50%" valign="top"> <h3>🗓️ SMM Copilot</h3> Web interface for managing projects on a content-planning platform. <br /><br /> <code>React</code> <code>TypeScript</code> <code>Redux</code> <code>Axios</code> </td> </tr> </table> <br />
+🎓 Education & Languages
+🎓 Education	🌐 Languages
+Osh State University (OshSU)
 Institute of Mathematics, Physics, Engineering and Information Technology
-
-**Specialization:** Software for Computer Engineering and Automated Systems (ПОВТАС)
-
-**2024 – 2028**
-
----
-
-## 🌐 Languages
-
-- **Kyrgyz:** Native / Fluent
-- **Russian:** B1
-- **English:** B1
-
----
-
-## 📈 Current Focus
-
-- Improving React and Next.js architecture skills
-- Writing maintainable and reusable frontend code
-- Working with APIs, state management, and asynchronous operations
-- Developing practical projects and mentoring aspiring developers
+Software for Computer Engineering and Automated Systems (ПОВТАС)
+2024 – 2028	🇰🇬 Kyrgyz — Native / Fluent
+🇷🇺 Russian — B1
+🇬🇧 English — B1
+<br />
+📈 Current Focus
+🧱 Improving React and Next.js architecture skills
+♻️ Writing maintainable and reusable frontend code
+⚡ Working with APIs, state management, and asynchronous operations
+🤝 Developing practical projects and mentoring aspiring developers
+<br /> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sakdiana&show_icons=true&hide_border=true&bg_color=1a1410&title_color=D4A24C&text_color=E8DCC8&icon_color=D4A24C&ring_color=D4A24C&border_radius=12" alt="GitHub stats" /> <br /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a1a,50:8b5e34,100:d4a24c&height=120&section=footer" alt="Footer" width="100%" /> </div>
